@@ -1,0 +1,7 @@
+interface:
+  display_name: "Aprimoramento do Sistema Bambusa"
+  short_description: "Audita desempenho, integridade e regressões"
+  default_prompt: "Use $bambusa-system-improvement para auditar o sistema e propor melhorias verificáveis."
+
+policy:
+  allow_implicit_invocation: true
