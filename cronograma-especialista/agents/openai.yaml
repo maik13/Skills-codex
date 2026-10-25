@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agente de Planejamento 2.0"
+  short_description: "Constrói e recalcula cronogramas de produção"
+  default_prompt: "Use $cronograma-especialista para construir um cronograma operacional conforme o Planejamento 2.0, incluindo datas, mão de obra, capacidade, dependências, gargalos e alertas."
+
+policy:
+  allow_implicit_invocation: true
